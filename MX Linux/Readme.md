@@ -1,10 +1,4 @@
-Absolutely 👍
-Below is a **very detailed, practical `README.md`** you can keep in your repo or personal notes.
-It is written so that **future-you** (or anyone else) can reinstall Wealthfolio **from scratch** on **MX Linux (Debian-based)** and **Windows 11**, with **or without data restoration**.
 
-You can copy–paste this directly into a `README.md`.
-
----
 
 # Wealthfolio – Fresh Install & Reinstallation Guide
 
